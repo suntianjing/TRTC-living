@@ -4,6 +4,7 @@ function App(props: any) {
     return (
         <div>
             hello world
+            suntianjing
         </div>
     );
 }
