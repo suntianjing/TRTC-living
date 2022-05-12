@@ -5,6 +5,7 @@ function App(props: any) {
         <div>
             hello world
             suntianjing
+            <h1>这是一个netlify测试</h1>
         </div>
     );
 }
